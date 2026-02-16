@@ -1,0 +1,12 @@
+Filename,Review,Sentiment,Score
+review1.txt,This product is good,Positive,1
+review3.txt,You did a good job.,Positive,1
+review2.txt,good quality,Positive,1
+review4.txt,That was a bad decision.,Negative,-1
+review2.txt,bad quality,Negative,-1
+review1.txt,very  bad,Negative,-1
+review3.txt,Your performance was excellent.,Positive,1
+review4.txt,This is the worst result.,Negative,-1
+review1.txt,the experience is excellent,Positive,1
+review3.txt,That idea is amazing.,Positive,1
+review4.txt,The work quality is poor.,Negative,-1
